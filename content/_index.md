@@ -460,4 +460,8 @@ A Monkey implementation in F# that is mostly functional.
 Object-oriented variant inspired by Ruby. It offers "everything is an object", networking, JSON and more!
 {{< /monkey-implementation >}}
 
+{{< monkey-implementation "Irwin1985" "cheetah" "Object Pascal">}}
+A Monkey implementation written in Object Pascal.
+{{< /monkey-implementation >}}
+  
 </ul>
